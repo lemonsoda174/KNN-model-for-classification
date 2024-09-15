@@ -1,4 +1,4 @@
-**KNN model for classification**
+****KNN model for classification****
 
 This is a basic machine learning model using the K-nearest neighbors (KNN) algorithm to predict any given sample and classify them into one of the three species in the IRIS dataset.
 
